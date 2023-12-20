@@ -1,3 +1,4 @@
 friends
 family
 happy
+enjoy
